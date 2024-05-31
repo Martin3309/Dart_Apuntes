@@ -10,7 +10,7 @@ void main(){
   
 //  final ironman = new Heroe(
 //    isAlive: rawJson['isAlive'] ?? false, //Cabe la posibilidad que el json venga con null
-    // ?? false -> Nos dice, si isAlive es null entonces que quede como false.
+// ?? false -> Nos dice, si isAlive es null entonces que quede como false.
 //    power: 'Money',
 //    name: 'Tony Stark'
 //  );
